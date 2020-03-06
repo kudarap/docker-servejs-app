@@ -1,6 +1,6 @@
 # docker-servejs-app
 
-base of https://github.com/zeit/serve
+node server base of https://github.com/zeit/serve
 
 quick start
 
